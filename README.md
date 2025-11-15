@@ -2,7 +2,7 @@
 
 Este repositorio ha sido creado para complementar mi postulación al programa de **Ingeniería de Datos** de ElevaTech y demostrar mi **conocimiento básico y operativo** en las herramientas y lenguajes clave requeridos para la formación.
 
-## 🎯 Habilidades Demostradas (Alineación con ElevaTech)
+## 🎯 Habilidades Demostradas
 
 El contenido de este portafolio valida las siguientes competencias técnicas, tal como lo exige el formulario de aplicación:
 
@@ -21,7 +21,7 @@ El contenido de este portafolio valida las siguientes competencias técnicas, ta
 
 ## 💡 Sobre el Postulante
 
-Soy **Ingeniero Ambiental**. Mi formación me proporciona una base sólida para la investigación, el análisis riguroso y la interpretación de datos complejos.
+Soy **Ingeniero Ambiental y Licenciado en Administración**. Mi formación multidisciplinaria me proporciona una base sólida para la investigación, el análisis riguroso y la interpretación de datos complejos.
 
 **Contacto:** +51930389640
 **LinkedIn:** www.linkedin.com/in/roberto-alonso-v-9253b798
